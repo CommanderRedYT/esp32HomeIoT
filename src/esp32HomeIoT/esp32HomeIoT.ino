@@ -272,4 +272,3 @@ void IRavPresetDown() {
 void sendNECcode() {
   irsend.sendNEC(dataNEC, 32);
 }
-jj
