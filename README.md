@@ -1,7 +1,7 @@
 # esp32HomeIoT
 Code for my personal Home-IoT-System. 
 
-## Used Librarys (Header filename + link):
+## Used Librarys:
 - ThingerESP32 (https://github.com/thinger-io/Arduino-Library)
 
 - WiFi, WiFiMulti, WiFiUdp, StreamString (https://github.com/espressif/arduino-esp32/tree/master/libraries)
