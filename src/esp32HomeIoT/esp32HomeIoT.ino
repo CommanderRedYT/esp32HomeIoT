@@ -1,5 +1,4 @@
 //#define _DEBUG_ //uncomment to enable debug-mode
-// can u see this?
 //User Settings
 
     //WiFi Settings
