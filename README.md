@@ -13,3 +13,5 @@ Code for my personal Home-IoT-System.
 - WakeOnLan (https://github.com/a7md0/WakeOnLan)
 
 - IRremote (https://github.com/z3t0/Arduino-IRremote)
+
+Outdated & broken!
