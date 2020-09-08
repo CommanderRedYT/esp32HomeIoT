@@ -1,6 +1,8 @@
 # esp32HomeIoT
 Code for my personal Home-IoT-System. 
 
+# Click [here](https://github.com/CommanderRedYT/esp32homeIoT-V2.0) for V2.0 witch should work!
+
 ## Used Librarys:
 - ThingerESP32 (https://github.com/thinger-io/Arduino-Library)
 
